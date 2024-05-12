@@ -4,6 +4,9 @@ collection of projects showcasing expertise in web development, design, and digi
 Aryan Joge's portfolio is more than just a showcase—it's a journey through cutting-edge design 
 and transformative digital experiences. Come, explore, and be inspired at aryanjoge.fun.
 
+LinkedIn: https://www.linkedin.com/in/aryanjoge/
+Instagram: https://www.instagram.com/arrrxynn
+Email: aryanjoge7@gmail.com
 ==================================================================================================
 
 aryanjoge.fun is a clean, modern, fully responsive portfolio site template for your
