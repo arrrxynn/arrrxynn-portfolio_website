@@ -7,6 +7,7 @@ and transformative digital experiences. Come, explore, and be inspired at aryan
 LinkedIn: https://www.linkedin.com/in/aryanjoge/
 Instagram: https://www.instagram.com/arrrxynn
 Email: aryanjoge7@gmail.com
+
 ==================================================================================================
 
 aryanjoge.fun is a clean, modern, fully responsive portfolio site template for your
