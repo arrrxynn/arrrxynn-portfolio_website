@@ -42,7 +42,7 @@ Under the following conditions:
 
 Attribution: 
 	
-   You must include a credit link to our website(http://aryanjoge.fun) somewhere on
+   You must include a credit link to our website(https://aryanjoge.fun) somewhere on
    your site. We prefer the footer credit that comes with the template but you are still 
    free to move it somewhere else.
 
