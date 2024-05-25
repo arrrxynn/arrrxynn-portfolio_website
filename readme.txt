@@ -21,8 +21,8 @@ creative, business or portfolio site for your company.
 
 LICENSE:
 
-aryanjoge.fun is released under the Creative Commons Attribution 3.0 License
-(http://creativecommons.org/licenses/by/3.0/). This means that you are free:
+Personal Portfolio © 2024 by Aryan Joge is licensed under Creative Commons Attribution 4.0 International. 
+This means that you are free:
 
    to Share - to copy, distribute, display, and perform the work
    to Remix - to make derivative works
@@ -42,9 +42,9 @@ Under the following conditions:
 
 Attribution: 
 	
-   You must include a credit link to our website(https://aryanjoge.fun) somewhere on
-   your site. We prefer the footer credit that comes with the template but you are still 
-   free to move it somewhere else.
+   You must include a credit link to our our website (https://aryanjoge.fun) or to Aryan Joge 
+   (https://www.linkedin.com/in/aryanjoge) somewhere on your work. We prefer the footer credit 
+   that comes with the template but you are still free to move it somewhere else.
 
 
 -----------------------------------------------------------------------------------------------------
